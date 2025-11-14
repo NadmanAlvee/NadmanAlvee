@@ -1,12 +1,12 @@
 <div align="center">
-  🌐 Socials:
+  Hi!! Connect with me 🍪
   <br>
   <br>
   
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadmanalvee@gmail.com)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/nadman.alvee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadman-alvee-haque)
 
   <br>
-  💻 Tech Stack:
+  Stuffs that I work with 🖥️
   <br>
   <br>
   
