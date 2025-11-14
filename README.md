@@ -1,13 +1,13 @@
 <div align="center">
-
   🌐 Socials:
-  
+  <br>
+  <br>
   [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadmanalvee@gmail.com)
 
   <br>
   💻 Tech Stack:
   <br>
-
+  <br>
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,8 +25,8 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
   <br>
-  # 📊 GitHub Stats:
+  📊 GitHub Stats:
   <br>
-  
+  <br>
   ![](https://nirzak-streak-stats.vercel.app/?user=NadmanAlvee&theme=dark&hide_border=false)
 </div>
