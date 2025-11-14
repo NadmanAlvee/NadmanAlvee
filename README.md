@@ -1,6 +1,6 @@
 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nadman.alvee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadman-alvee-haque) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL) [![email](https://imgshields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadmanalvee@gmail.com)
 
 💻 Tech Stack:
 
