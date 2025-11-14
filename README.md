@@ -25,11 +25,6 @@
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-
-  <br>
-  📊 GitHub Stats:
-  <br>
-  <br>
   
   ![](https://nirzak-streak-stats.vercel.app/?user=NadmanAlvee&theme=dark&hide_border=false)
 </div>
