@@ -2,13 +2,6 @@
   Hey! I'm Nadman Alvee — a developer who loves turning ideas into real things. I enjoy building software for you to like.
   <br>
   <br>
-  <p>Connect with me to get a cookie 🍪 </p>
-  <div style="display: inline-block;">
-  <a  style="margin: 10px;" href="https://linkedin.com/in/nadman-alvee-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadman-alvee-haque" height="26" width="26" target="_blank"/></a>
-  <a style="margin: 10px;" href="https://facebook.com/nadman.alvee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadman.alvee" height="26" width="26" target="_blank"/></a>
-  </div>
-  
-  <br>
   Stuffs that I work with 🖥️
   <br>
   <br>
@@ -32,6 +25,12 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
   
   ![](https://nirzak-streak-stats.vercel.app/?user=NadmanAlvee&theme=dark&hide_border=false)
+</div>
+<br>
+<p>Connect with me to get a cookie 🍪 </p>
+<div style="display: inline-block;">
+<a  style="margin: 10px;" href="https://linkedin.com/in/nadman-alvee-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadman-alvee-haque" height="26" width="26" target="_blank"/></a>
+<a style="margin: 10px;" href="https://facebook.com/nadman.alvee" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadman.alvee" height="26" width="26" target="_blank"/></a>
 </div>
 
 <!--
