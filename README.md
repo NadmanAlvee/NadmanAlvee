@@ -26,7 +26,7 @@
   ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
   ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-black?style=for-the-badge&logo=unrealengine&logoColor=white)
   
-  ![](https://nirzak-streak-stats.vercel.app/?user=NadmanAlvee&theme=dark-smoky&hide_border=false)
+  <!--![](https://nirzak-streak-stats.vercel.app/?user=NadmanAlvee&theme=dark-smoky&hide_border=false)-->
 </div>
 <br>
 <div style="display: inline-block;"  align="center">
